@@ -1,10 +1,10 @@
-# Um jeito simples de mostrar que Node.js não é single thread
+# Um jeito simples de mostrar que Node.js não é inteiramente single thread
 
 ## Como usar
 
 `node threads.js <INT>`
 
-Onde <INT> é o número de threads que você quer testar.
+Onde INT é o número de threads que você quer testar.
 
 ## Teste
 
